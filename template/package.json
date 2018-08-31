@@ -28,6 +28,7 @@
     "vue": "^2.5.2"{{#router}},
     "vue-router": "^3.0.1"{{/router}},
     "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
     "whatwg-fetch": "^2.0.4"
   },
   "devDependencies": {
